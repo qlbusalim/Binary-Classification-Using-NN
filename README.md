@@ -11,7 +11,6 @@ This project demonstrates the use of a neural network with backpropagation to pr
 * ucimlrepo
 * scikit-learn
 * imbalanced-learn
-* scipy
 * tensorflow
 * keras
 
